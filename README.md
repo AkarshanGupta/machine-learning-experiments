@@ -307,37 +307,6 @@ A [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neu
         </a>
       </td>
     </tr>
-      <!-- Experiment -->
-    <tr>
-      <td>
-        <img src="demos/src/images/image_classification_mobilenet_v2.jpg" alt="Objects detection" width="150" />
-      </td>
-      <td>
-        <a href="experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb">
-          <b>Food Classifier(Resnet 18/MicroSoft(Resnet-50) </b>
-        </a>
-      </td>
-      <td>
-        <a href="https://trekhleb.github.io/machine-learning-experiments/#/experiments/ImageClassificationMobilenetV2">
-          <img src="https://img.shields.io/static/v1?label=%F0%9F%8E%A8%20Launch&message=Demo&color=green" alt="Launch demo">
-        </a>
-        <a href="https://nbviewer.jupyter.org/github/trekhleb/machine-learning-experiments/blob/master/experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb">
-          <img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/>
-        </a>
-        <a href="https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/image_classification_mobilenet_v2/image_classification_mobilenet_v2.ipynb">
-          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-        </a>
-      </td>
-      <td>
-        <code>MobileNetV2</code>,
-        <code>CNN</code>
-      </td>
-      <td>
-        <a href="http://image-net.org/explore">
-          ImageNet
-        </a>
-      </td>
-    </tr>
   </tbody>
 </table>
 
